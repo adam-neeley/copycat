@@ -1,3 +1,9 @@
+This is a fork of [Fargonaut's CopyCat](https://github.com/fargonaut/copycat).
+
+Instructions
+------------
+If running `make` doesn't work, try running `nix shell`, first.
+
 co.py.cat
 =========
 
