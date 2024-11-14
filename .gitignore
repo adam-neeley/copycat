@@ -31,7 +31,6 @@ copycat.log
 
 # Output
 output/*
-<<<<<<< HEAD
 copycat.log
 papers/*.log
 papers/*.pdf
@@ -39,7 +38,5 @@ papers/*.out
 papers/*.aux
 papers/words
 *.txt
-=======
->>>>>>> develop
 /.direnv/
 .envrc
