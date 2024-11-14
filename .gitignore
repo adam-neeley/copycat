@@ -41,3 +41,5 @@ papers/words
 *.txt
 =======
 >>>>>>> develop
+/.direnv/
+.envrc
